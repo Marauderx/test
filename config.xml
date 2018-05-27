@@ -1,4 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
+<allow-navigation href="http://www.tim.org/" />
+<meta http-equiv="Content-Security-Policy" content="default-src 'self'; frame-src 'self' https://iframe url">
 <widget id="com.marauder.test" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
     <name>project</name>
     <description>
